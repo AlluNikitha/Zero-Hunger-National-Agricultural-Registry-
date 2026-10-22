@@ -1,0 +1,19 @@
+Crop_ID,Crop_Name,Category,Season,Water_Requirement,Optimal_Soil,Growth_Period_Days,MSP_Per_Quintal,Ideal_Temp_C,Ideal_Rainfall_MM,Description,Icon,Image_Url
+C01,Rice,Cereal,Kharif,High,Clayey / Alluvial,120-150,2300,22-32,1000-1500,Primary staple grain requiring standing water and warm humid climate.,🌾,data/images/crop_C01.jpg
+C02,Wheat,Cereal,Rabi,Medium,Alluvial / Loam,110-140,2425,15-25,400-750,Major rabi staple cereal suited for cooler temperatures and loamy soils.,🌾,data/images/crop_C02.jpg
+C03,Maize,Cereal,Kharif,Medium,Alluvial / Red,90-110,2225,18-27,500-800,Versatile coarse cereal used for food livestock feed and industrial starch.,🌽,data/images/crop_C03.jpg
+C04,Cotton,Cash Crop,Kharif,Medium,Black (Regur),150-180,7121,21-30,500-1000,King of natural fibers thrives in moisture-retentive black soil.,☁️,data/images/crop_C04.jpg
+C05,Sugarcane,Cash Crop,Annual,High,Alluvial / Loam,300-360,340,20-35,1200-2000,Long-duration perennial crop foundation of sugar & bioethanol industries.,🎋,data/images/crop_C05.jpg
+C06,Mustard,Oilseed,Rabi,Low,Loam / Sandy Loam,100-120,5950,10-25,250-400,Key edible oilseed grown across subtropical plains with low moisture demand.,🌼,data/images/crop_C06.jpg
+C07,Soybean,Oilseed,Kharif,Medium,Black / Alluvial,95-110,4892,20-30,600-900,High-protein legume and oilseed crop vital for oil and soy protein industry.,🌱,data/images/crop_C07.jpg
+C08,Groundnut,Oilseed,Kharif,Low,Sandy Loam / Red,105-125,6783,22-28,500-700,Subterranean legume pod valued for edible oil and rich protein nuts.,🥜,data/images/crop_C08.jpg
+C09,Gram (Chickpea),Pulse,Rabi,Low,Sandy Loam / Black,90-115,5650,15-25,300-500,Premier rabi pulse delivering nitrogen-fixation and nutritional security.,🧆,data/images/crop_C09.jpg
+C10,Tur (Pigeon Pea),Pulse,Kharif,Low,Red / Black,150-180,7550,20-30,600-800,Major high-protein dal pulse suited for dryland rainfed farming systems.,🫘,data/images/crop_C10.jpg
+C11,Bajra (Pearl Millet),Millet,Kharif,Low,Sandy / Loam,75-90,2625,25-35,350-550,Super millet resilient to drought and high temperatures rich in iron.,🌾,data/images/crop_C11.jpg
+C12,Jowar (Sorghum),Millet,Kharif,Low,Black / Clayey,100-115,3371,26-33,400-600,Nutritious coarse grain resilient to water scarcity and heat stress.,🌾,data/images/crop_C12.jpg
+C13,Potato,Vegetable,Rabi,Medium,Sandy Loam / Alluvial,80-100,1450,15-20,400-600,High-yield tuber vegetable rich in carbohydrates and dietary fiber.,🥔,data/images/crop_C13.jpg
+C14,Tomato,Vegetable,Zaid,Medium,Loam / Sandy Loam,70-90,1650,18-28,400-600,Essential commercial horticultural vegetable in all cooking traditions.,🍅,data/images/crop_C14.jpg
+C15,Onion,Vegetable,Rabi,Medium,Loamy / Alluvial,120-140,1850,13-24,350-550,High commercial culinary bulb crop with robust storage and market demand.,🧅,data/images/crop_C15.jpg
+C16,Barley,Cereal,Rabi,Medium,Loam,110-130,1735,12-25,400-600,"Hardy cereal used for malt, food, and fodder.",🌾,data/images/crop_C16.jpg
+C17,Sunflower,Oilseed,Kharif,Medium,Sandy Loam,90-100,6400,20-30,400-600,Major oilseed crop with bright yellow flowers.,🌻,data/images/crop_C17.jpg
+C18,Chili,Spice,Kharif,Medium,Red / Loam,150-180,6000,20-30,600-800,Spicy cash crop essential in culinary uses.,🌶️,data/images/crop_C18.jpg

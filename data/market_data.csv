@@ -1,0 +1,250 @@
+Market_ID,Mandi_Name,State,Crop_ID,Crop_Name,Modal_Price_Rs_Qtl,Min_Price_Rs_Qtl,Max_Price_Rs_Qtl,MSP_Rs_Qtl,MSP_Variance_Percent,Price_Trend,Daily_Arrival_Quintals,Market_Demand,Date_Updated
+M001,Ludhiana Mandi,Punjab,C15,Onion,1599,1508,1684,1850,-13.6,Bearish / Down,1331,High,2026-09-22
+M002,Ludhiana Mandi,Punjab,C09,Gram (Chickpea),5797,5476,6103,5650,2.6,Bullish / Up,438,Steady,2026-09-22
+M003,Ludhiana Mandi,Punjab,C06,Mustard,5861,5390,6127,5950,-1.5,Stable,934,Moderate,2026-09-22
+M004,Ludhiana Mandi,Punjab,C08,Groundnut,6783,6439,7152,6783,0.0,Stable,1879,Steady,2026-09-22
+M005,Khanna Grain Market,Punjab,C02,Wheat,2458,2250,2678,2425,1.4,Stable,1244,Moderate,2026-09-22
+M006,Khanna Grain Market,Punjab,C07,Soybean,4904,4654,5168,4892,0.2,Stable,1807,Very High,2026-09-22
+M007,Khanna Grain Market,Punjab,C08,Groundnut,7062,6663,7347,6783,4.1,Bullish / Up,1037,Steady,2026-09-22
+M008,Khanna Grain Market,Punjab,C05,Sugarcane,342,317,356,340,0.6,Stable,188,Moderate,2026-09-22
+M009,Amritsar APMC,Punjab,C10,Tur (Pigeon Pea),7385,6823,8019,7550,-2.2,Bearish / Down,1635,Steady,2026-09-22
+M010,Amritsar APMC,Punjab,C14,Tomato,2273,2087,2479,1650,37.8,Bullish / Up,892,Moderate,2026-09-22
+M011,Amritsar APMC,Punjab,C03,Maize,2403,2250,2625,2225,8.0,Bullish / Up,420,Very High,2026-09-22
+M012,Amritsar APMC,Punjab,C01,Rice,2166,2033,2322,2300,-5.8,Bearish / Down,636,Steady,2026-09-22
+M013,Amritsar APMC,Punjab,C07,Soybean,5192,4908,5641,4892,6.1,Bullish / Up,724,Steady,2026-09-22
+M014,Bathinda APMC,Punjab,C15,Onion,2620,2443,2865,1850,41.6,Bullish / Up,482,High,2026-09-22
+M015,Bathinda APMC,Punjab,C13,Potato,1353,1291,1435,1450,-6.7,Bearish / Down,394,Very High,2026-09-22
+M016,Bathinda APMC,Punjab,C04,Cotton,7361,6901,8096,7121,3.4,Bullish / Up,385,Steady,2026-09-22
+M017,Bathinda APMC,Punjab,C12,Jowar (Sorghum),3198,2955,3484,3371,-5.1,Bearish / Down,1297,Very High,2026-09-22
+M018,Karnal APMC,Haryana,C05,Sugarcane,344,322,374,340,1.2,Stable,1150,Moderate,2026-09-22
+M019,Karnal APMC,Haryana,C08,Groundnut,6397,5911,7028,6783,-5.7,Bearish / Down,199,High,2026-09-22
+M020,Karnal APMC,Haryana,C04,Cotton,6814,6416,7437,7121,-4.3,Bearish / Down,332,Steady,2026-09-22
+M021,Karnal APMC,Haryana,C07,Soybean,4844,4466,5117,4892,-1.0,Stable,2342,High,2026-09-22
+M022,Sirsa Grain Market,Haryana,C06,Mustard,6295,5843,6699,5950,5.8,Bullish / Up,1052,Very High,2026-09-22
+M023,Sirsa Grain Market,Haryana,C01,Rice,2414,2205,2532,2300,5.0,Bullish / Up,747,Very High,2026-09-22
+M024,Sirsa Grain Market,Haryana,C03,Maize,2225,2038,2317,2225,0.0,Stable,1642,High,2026-09-22
+M025,Sirsa Grain Market,Haryana,C05,Sugarcane,395,373,424,340,16.2,Bullish / Up,2027,High,2026-09-22
+M026,Sirsa Grain Market,Haryana,C15,Onion,2617,2454,2769,1850,41.5,Bullish / Up,1196,Moderate,2026-09-22
+M027,Kurukshetra Mandi,Haryana,C15,Onion,2108,1997,2223,1850,13.9,Bullish / Up,1947,Moderate,2026-09-22
+M028,Kurukshetra Mandi,Haryana,C07,Soybean,4949,4669,5227,4892,1.2,Stable,287,High,2026-09-22
+M029,Kurukshetra Mandi,Haryana,C04,Cotton,7591,7249,8339,7121,6.6,Bullish / Up,204,Very High,2026-09-22
+M030,Kurukshetra Mandi,Haryana,C08,Groundnut,6721,6428,7259,6783,-0.9,Stable,2146,High,2026-09-22
+M031,Hisar APMC,Haryana,C01,Rice,2459,2316,2659,2300,6.9,Bullish / Up,1538,Steady,2026-09-22
+M032,Hisar APMC,Haryana,C12,Jowar (Sorghum),3366,3186,3530,3371,-0.1,Stable,595,Steady,2026-09-22
+M033,Hisar APMC,Haryana,C05,Sugarcane,363,330,385,340,6.8,Bullish / Up,1101,Very High,2026-09-22
+M034,Varanasi Mandi,Uttar Pradesh,C11,Bajra (Pearl Millet),2700,2563,2928,2625,2.9,Bullish / Up,1988,High,2026-09-22
+M035,Varanasi Mandi,Uttar Pradesh,C03,Maize,2120,1933,2229,2225,-4.7,Bearish / Down,580,High,2026-09-22
+M036,Varanasi Mandi,Uttar Pradesh,C14,Tomato,2380,2277,2523,1650,44.2,Bullish / Up,2120,High,2026-09-22
+M037,Varanasi Mandi,Uttar Pradesh,C12,Jowar (Sorghum),3564,3266,3730,3371,5.7,Bullish / Up,1986,Very High,2026-09-22
+M038,Lucknow Kisan Mandi,Uttar Pradesh,C05,Sugarcane,347,328,363,340,2.1,Bullish / Up,544,Very High,2026-09-22
+M039,Lucknow Kisan Mandi,Uttar Pradesh,C07,Soybean,4804,4441,5044,4892,-1.8,Stable,1702,Steady,2026-09-22
+M040,Lucknow Kisan Mandi,Uttar Pradesh,C13,Potato,1355,1287,1481,1450,-6.6,Bearish / Down,282,Moderate,2026-09-22
+M041,Meerut APMC,Uttar Pradesh,C05,Sugarcane,361,332,379,340,6.2,Bullish / Up,2179,High,2026-09-22
+M042,Meerut APMC,Uttar Pradesh,C07,Soybean,4949,4624,5204,4892,1.2,Stable,261,Moderate,2026-09-22
+M043,Meerut APMC,Uttar Pradesh,C04,Cotton,7574,7236,8027,7121,6.4,Bullish / Up,1067,Very High,2026-09-22
+M044,Meerut APMC,Uttar Pradesh,C08,Groundnut,6619,6197,6897,6783,-2.4,Bearish / Down,676,Steady,2026-09-22
+M045,Gorakhpur Mandi,Uttar Pradesh,C10,Tur (Pigeon Pea),7898,7431,8581,7550,4.6,Bullish / Up,1230,Steady,2026-09-22
+M046,Gorakhpur Mandi,Uttar Pradesh,C14,Tomato,1413,1318,1495,1650,-14.4,Bearish / Down,236,High,2026-09-22
+M047,Gorakhpur Mandi,Uttar Pradesh,C11,Bajra (Pearl Millet),2590,2419,2844,2625,-1.3,Stable,328,Steady,2026-09-22
+M048,Gorakhpur Mandi,Uttar Pradesh,C12,Jowar (Sorghum),3281,2995,3413,3371,-2.7,Bearish / Down,2152,High,2026-09-22
+M049,Gorakhpur Mandi,Uttar Pradesh,C13,Potato,1600,1523,1752,1450,10.3,Bullish / Up,1873,High,2026-09-22
+M050,Agra Mandi,Uttar Pradesh,C05,Sugarcane,366,349,384,340,7.6,Bullish / Up,2264,High,2026-09-22
+M051,Agra Mandi,Uttar Pradesh,C06,Mustard,6279,5867,6877,5950,5.5,Bullish / Up,2302,Steady,2026-09-22
+M052,Agra Mandi,Uttar Pradesh,C12,Jowar (Sorghum),3123,2850,3268,3371,-7.4,Bearish / Down,2156,Very High,2026-09-22
+M053,Agra Mandi,Uttar Pradesh,C04,Cotton,7092,6616,7534,7121,-0.4,Stable,708,Moderate,2026-09-22
+M054,Agra Mandi,Uttar Pradesh,C11,Bajra (Pearl Millet),2586,2475,2727,2625,-1.5,Stable,1963,High,2026-09-22
+M055,Agra Mandi,Uttar Pradesh,C10,Tur (Pigeon Pea),7960,7269,8327,7550,5.4,Bullish / Up,549,Steady,2026-09-22
+M056,Guntur Mirchi Yard & Grain APMC,Andhra Pradesh,C15,Onion,2057,1956,2242,1850,11.2,Bullish / Up,463,High,2026-09-22
+M057,Guntur Mirchi Yard & Grain APMC,Andhra Pradesh,C11,Bajra (Pearl Millet),2684,2548,2931,2625,2.2,Bullish / Up,1864,Steady,2026-09-22
+M058,Guntur Mirchi Yard & Grain APMC,Andhra Pradesh,C08,Groundnut,7081,6505,7659,6783,4.4,Bullish / Up,572,Moderate,2026-09-22
+M059,Tenali Mandi,Andhra Pradesh,C03,Maize,2131,1996,2288,2225,-4.2,Bearish / Down,2317,Moderate,2026-09-22
+M060,Tenali Mandi,Andhra Pradesh,C05,Sugarcane,361,338,391,340,6.2,Bullish / Up,940,Very High,2026-09-22
+M061,Tenali Mandi,Andhra Pradesh,C12,Jowar (Sorghum),3171,2894,3334,3371,-5.9,Bearish / Down,638,Steady,2026-09-22
+M062,Kurnool Market Yard,Andhra Pradesh,C08,Groundnut,6443,5923,6894,6783,-5.0,Bearish / Down,393,Steady,2026-09-22
+M063,Kurnool Market Yard,Andhra Pradesh,C15,Onion,1850,1717,2022,1850,0.0,Stable,883,Moderate,2026-09-22
+M064,Kurnool Market Yard,Andhra Pradesh,C05,Sugarcane,330,300,350,340,-2.9,Bearish / Down,1243,High,2026-09-22
+M065,Kurnool Market Yard,Andhra Pradesh,C03,Maize,2167,2073,2336,2225,-2.6,Bearish / Down,1157,Steady,2026-09-22
+M066,Kakinada APMC,Andhra Pradesh,C06,Mustard,5942,5511,6496,5950,-0.1,Stable,1457,Steady,2026-09-22
+M067,Kakinada APMC,Andhra Pradesh,C03,Maize,2165,2032,2290,2225,-2.7,Bearish / Down,2264,Moderate,2026-09-22
+M068,Kakinada APMC,Andhra Pradesh,C13,Potato,1632,1565,1713,1450,12.6,Bullish / Up,195,High,2026-09-22
+M069,Kakinada APMC,Andhra Pradesh,C10,Tur (Pigeon Pea),7586,6944,8088,7550,0.5,Stable,1177,High,2026-09-22
+M070,Warangal APMC,Telangana,C08,Groundnut,6428,5883,6845,6783,-5.2,Bearish / Down,197,Steady,2026-09-22
+M071,Warangal APMC,Telangana,C15,Onion,2120,1948,2221,1850,14.6,Bullish / Up,399,Steady,2026-09-22
+M072,Warangal APMC,Telangana,C10,Tur (Pigeon Pea),7926,7457,8535,7550,5.0,Bullish / Up,989,High,2026-09-22
+M073,Warangal APMC,Telangana,C04,Cotton,7607,7263,8304,7121,6.8,Bullish / Up,151,Moderate,2026-09-22
+M074,Enumamula Grain Market,Telangana,C15,Onion,2532,2330,2765,1850,36.9,Bullish / Up,766,Steady,2026-09-22
+M075,Enumamula Grain Market,Telangana,C01,Rice,2268,2156,2382,2300,-1.4,Stable,2054,Steady,2026-09-22
+M076,Enumamula Grain Market,Telangana,C07,Soybean,5150,4859,5452,4892,5.3,Bullish / Up,1463,Steady,2026-09-22
+M077,Enumamula Grain Market,Telangana,C06,Mustard,5670,5279,6046,5950,-4.7,Bearish / Down,1574,Very High,2026-09-22
+M078,Nizamabad APMC,Telangana,C01,Rice,2317,2221,2418,2300,0.7,Stable,1696,Steady,2026-09-22
+M079,Nizamabad APMC,Telangana,C13,Potato,1507,1388,1639,1450,3.9,Bullish / Up,2347,High,2026-09-22
+M080,Nizamabad APMC,Telangana,C02,Wheat,2453,2343,2571,2425,1.2,Stable,1247,Moderate,2026-09-22
+M081,Nizamabad APMC,Telangana,C06,Mustard,6195,5669,6707,5950,4.1,Bullish / Up,264,Moderate,2026-09-22
+M082,Nizamabad APMC,Telangana,C12,Jowar (Sorghum),3578,3289,3810,3371,6.1,Bullish / Up,1307,Moderate,2026-09-22
+M083,Nizamabad APMC,Telangana,C10,Tur (Pigeon Pea),7582,7115,8225,7550,0.4,Stable,2233,Steady,2026-09-22
+M084,Miryalaguda APMC,Telangana,C07,Soybean,4879,4683,5131,4892,-0.3,Stable,849,Moderate,2026-09-22
+M085,Miryalaguda APMC,Telangana,C01,Rice,2188,2098,2391,2300,-4.9,Bearish / Down,1410,Very High,2026-09-22
+M086,Miryalaguda APMC,Telangana,C14,Tomato,1859,1706,1935,1650,12.7,Bullish / Up,1137,High,2026-09-22
+M087,Miryalaguda APMC,Telangana,C05,Sugarcane,334,313,353,340,-1.8,Stable,487,Steady,2026-09-22
+M088,Lasalgaon Mandi (Nashik),Maharashtra,C06,Mustard,6332,6063,6861,5950,6.4,Bullish / Up,592,Very High,2026-09-22
+M089,Lasalgaon Mandi (Nashik),Maharashtra,C13,Potato,1465,1356,1565,1450,1.0,Stable,1865,Very High,2026-09-22
+M090,Lasalgaon Mandi (Nashik),Maharashtra,C02,Wheat,2451,2249,2582,2425,1.1,Stable,601,High,2026-09-22
+M091,Lasalgaon Mandi (Nashik),Maharashtra,C07,Soybean,4587,4294,4815,4892,-6.2,Bearish / Down,925,Moderate,2026-09-22
+M092,Lasalgaon Mandi (Nashik),Maharashtra,C12,Jowar (Sorghum),3483,3236,3813,3371,3.3,Bullish / Up,460,Steady,2026-09-22
+M093,Lasalgaon Mandi (Nashik),Maharashtra,C11,Bajra (Pearl Millet),2482,2366,2631,2625,-5.4,Bearish / Down,502,High,2026-09-22
+M094,Vashi APMC,Maharashtra,C11,Bajra (Pearl Millet),2764,2633,2881,2625,5.3,Bullish / Up,1581,High,2026-09-22
+M095,Vashi APMC,Maharashtra,C15,Onion,1614,1501,1743,1850,-12.8,Bearish / Down,2322,Steady,2026-09-22
+M096,Vashi APMC,Maharashtra,C10,Tur (Pigeon Pea),7939,7556,8278,7550,5.2,Bullish / Up,682,High,2026-09-22
+M097,Vashi APMC,Maharashtra,C12,Jowar (Sorghum),3199,2988,3467,3371,-5.1,Bearish / Down,1884,High,2026-09-22
+M098,Nagpur Grain Market,Maharashtra,C07,Soybean,4838,4597,5282,4892,-1.1,Stable,2254,Very High,2026-09-22
+M099,Nagpur Grain Market,Maharashtra,C14,Tomato,1358,1264,1456,1650,-17.7,Bearish / Down,796,Steady,2026-09-22
+M100,Nagpur Grain Market,Maharashtra,C09,Gram (Chickpea),5992,5677,6421,5650,6.1,Bullish / Up,653,Steady,2026-09-22
+M101,Nagpur Grain Market,Maharashtra,C10,Tur (Pigeon Pea),7386,6760,7881,7550,-2.2,Bearish / Down,1068,High,2026-09-22
+M102,Baramati APMC,Maharashtra,C09,Gram (Chickpea),5954,5598,6194,5650,5.4,Bullish / Up,984,Moderate,2026-09-22
+M103,Baramati APMC,Maharashtra,C13,Potato,1541,1421,1610,1450,6.3,Bullish / Up,1022,Very High,2026-09-22
+M104,Baramati APMC,Maharashtra,C12,Jowar (Sorghum),3413,3234,3600,3371,1.2,Stable,613,Steady,2026-09-22
+M105,Pune APMC,Maharashtra,C13,Potato,1382,1261,1502,1450,-4.7,Bearish / Down,1270,High,2026-09-22
+M106,Pune APMC,Maharashtra,C02,Wheat,2657,2428,2765,2425,9.6,Bullish / Up,644,Very High,2026-09-22
+M107,Pune APMC,Maharashtra,C04,Cotton,7528,6876,8225,7121,5.7,Bullish / Up,1317,Steady,2026-09-22
+M108,Pune APMC,Maharashtra,C06,Mustard,6249,5704,6800,5950,5.0,Bullish / Up,677,Very High,2026-09-22
+M109,Pune APMC,Maharashtra,C05,Sugarcane,344,322,371,340,1.2,Stable,2152,Very High,2026-09-22
+M110,Indore Mandi,Madhya Pradesh,C13,Potato,1791,1684,1964,1450,23.5,Bullish / Up,756,Moderate,2026-09-22
+M111,Indore Mandi,Madhya Pradesh,C03,Maize,2143,2017,2283,2225,-3.7,Bearish / Down,300,Moderate,2026-09-22
+M112,Indore Mandi,Madhya Pradesh,C12,Jowar (Sorghum),3380,3183,3562,3371,0.3,Stable,897,Very High,2026-09-22
+M113,Indore Mandi,Madhya Pradesh,C06,Mustard,6056,5656,6500,5950,1.8,Stable,609,Moderate,2026-09-22
+M114,Indore Mandi,Madhya Pradesh,C08,Groundnut,7131,6653,7536,6783,5.1,Bullish / Up,1187,Moderate,2026-09-22
+M115,Ujjain Krishi Upaj Mandi,Madhya Pradesh,C04,Cotton,6818,6528,7164,7121,-4.3,Bearish / Down,572,High,2026-09-22
+M116,Ujjain Krishi Upaj Mandi,Madhya Pradesh,C07,Soybean,4916,4659,5268,4892,0.5,Stable,878,Steady,2026-09-22
+M117,Ujjain Krishi Upaj Mandi,Madhya Pradesh,C06,Mustard,6263,6000,6816,5950,5.3,Bullish / Up,1121,Moderate,2026-09-22
+M118,Ujjain Krishi Upaj Mandi,Madhya Pradesh,C15,Onion,2575,2348,2824,1850,39.2,Bullish / Up,1042,Moderate,2026-09-22
+M119,Ujjain Krishi Upaj Mandi,Madhya Pradesh,C10,Tur (Pigeon Pea),7633,7144,7988,7550,1.1,Stable,2042,High,2026-09-22
+M120,Ujjain Krishi Upaj Mandi,Madhya Pradesh,C13,Potato,1209,1144,1267,1450,-16.6,Bearish / Down,1319,Steady,2026-09-22
+M121,Bhopal APMC,Madhya Pradesh,C09,Gram (Chickpea),5595,5292,6011,5650,-1.0,Stable,893,Very High,2026-09-22
+M122,Bhopal APMC,Madhya Pradesh,C02,Wheat,2604,2380,2864,2425,7.4,Bullish / Up,1235,Moderate,2026-09-22
+M123,Bhopal APMC,Madhya Pradesh,C13,Potato,1471,1396,1616,1450,1.4,Stable,426,Steady,2026-09-22
+M124,Hoshangabad Mandi,Madhya Pradesh,C08,Groundnut,6721,6166,7375,6783,-0.9,Stable,2383,Moderate,2026-09-22
+M125,Hoshangabad Mandi,Madhya Pradesh,C13,Potato,1792,1719,1932,1450,23.6,Bullish / Up,870,Moderate,2026-09-22
+M126,Hoshangabad Mandi,Madhya Pradesh,C15,Onion,2340,2242,2528,1850,26.5,Bullish / Up,1651,High,2026-09-22
+M127,Hoshangabad Mandi,Madhya Pradesh,C11,Bajra (Pearl Millet),2843,2641,3036,2625,8.3,Bullish / Up,257,Very High,2026-09-22
+M128,Yeshwanthpur APMC (Bengaluru),Karnataka,C07,Soybean,5093,4759,5351,4892,4.1,Bullish / Up,691,Moderate,2026-09-22
+M129,Yeshwanthpur APMC (Bengaluru),Karnataka,C08,Groundnut,7026,6716,7557,6783,3.6,Bullish / Up,1406,Very High,2026-09-22
+M130,Yeshwanthpur APMC (Bengaluru),Karnataka,C06,Mustard,5754,5413,6312,5950,-3.3,Bearish / Down,2097,Steady,2026-09-22
+M131,Yeshwanthpur APMC (Bengaluru),Karnataka,C13,Potato,1458,1349,1562,1450,0.6,Stable,2377,Very High,2026-09-22
+M132,Yeshwanthpur APMC (Bengaluru),Karnataka,C10,Tur (Pigeon Pea),7245,6765,7636,7550,-4.0,Bearish / Down,1077,Moderate,2026-09-22
+M133,Mysuru Mandi,Karnataka,C05,Sugarcane,389,370,417,340,14.4,Bullish / Up,778,Steady,2026-09-22
+M134,Mysuru Mandi,Karnataka,C14,Tomato,2166,2002,2274,1650,31.3,Bullish / Up,2180,Steady,2026-09-22
+M135,Mysuru Mandi,Karnataka,C15,Onion,2153,2011,2368,1850,16.4,Bullish / Up,473,Steady,2026-09-22
+M136,Mysuru Mandi,Karnataka,C06,Mustard,6320,5788,6600,5950,6.2,Bullish / Up,1067,Very High,2026-09-22
+M137,Mysuru Mandi,Karnataka,C08,Groundnut,6792,6256,7383,6783,0.1,Stable,180,Very High,2026-09-22
+M138,Mysuru Mandi,Karnataka,C12,Jowar (Sorghum),3480,3304,3631,3371,3.2,Bullish / Up,2180,Moderate,2026-09-22
+M139,Hubballi APMC,Karnataka,C15,Onion,2237,2040,2403,1850,20.9,Bullish / Up,2172,Very High,2026-09-22
+M140,Hubballi APMC,Karnataka,C10,Tur (Pigeon Pea),7349,6992,8076,7550,-2.7,Bearish / Down,2110,Steady,2026-09-22
+M141,Hubballi APMC,Karnataka,C05,Sugarcane,381,360,416,340,12.1,Bullish / Up,994,Very High,2026-09-22
+M142,Hubballi APMC,Karnataka,C08,Groundnut,6925,6361,7494,6783,2.1,Bullish / Up,2205,Moderate,2026-09-22
+M143,Hubballi APMC,Karnataka,C02,Wheat,2630,2523,2867,2425,8.5,Bullish / Up,1868,Moderate,2026-09-22
+M144,Belagavi Market,Karnataka,C03,Maize,2364,2210,2545,2225,6.2,Bullish / Up,2111,High,2026-09-22
+M145,Belagavi Market,Karnataka,C02,Wheat,2583,2464,2736,2425,6.5,Bullish / Up,2400,Moderate,2026-09-22
+M146,Belagavi Market,Karnataka,C07,Soybean,4670,4400,5119,4892,-4.5,Bearish / Down,1564,Moderate,2026-09-22
+M147,Belagavi Market,Karnataka,C04,Cotton,7078,6664,7580,7121,-0.6,Stable,2328,High,2026-09-22
+M148,Koyambedu Wholesale Market,Tamil Nadu,C04,Cotton,7257,6633,7946,7121,1.9,Stable,1521,Steady,2026-09-22
+M149,Koyambedu Wholesale Market,Tamil Nadu,C07,Soybean,4912,4706,5398,4892,0.4,Stable,1322,Very High,2026-09-22
+M150,Koyambedu Wholesale Market,Tamil Nadu,C01,Rice,2266,2064,2491,2300,-1.5,Stable,1020,High,2026-09-22
+M151,Koyambedu Wholesale Market,Tamil Nadu,C14,Tomato,2308,2169,2503,1650,39.9,Bullish / Up,2258,High,2026-09-22
+M152,Koyambedu Wholesale Market,Tamil Nadu,C11,Bajra (Pearl Millet),2703,2567,2957,2625,3.0,Bullish / Up,2106,Moderate,2026-09-22
+M153,Koyambedu Wholesale Market,Tamil Nadu,C02,Wheat,2720,2583,2966,2425,12.2,Bullish / Up,865,High,2026-09-22
+M154,Thanjavur APMC,Tamil Nadu,C01,Rice,2330,2158,2543,2300,1.3,Stable,739,Very High,2026-09-22
+M155,Thanjavur APMC,Tamil Nadu,C06,Mustard,5970,5623,6528,5950,0.3,Stable,2246,High,2026-09-22
+M156,Thanjavur APMC,Tamil Nadu,C15,Onion,1882,1752,1958,1850,1.7,Stable,2121,Very High,2026-09-22
+M157,Thanjavur APMC,Tamil Nadu,C09,Gram (Chickpea),5317,5066,5836,5650,-5.9,Bearish / Down,2284,Steady,2026-09-22
+M158,Coimbatore APMC,Tamil Nadu,C08,Groundnut,6396,6003,6823,6783,-5.7,Bearish / Down,318,Moderate,2026-09-22
+M159,Coimbatore APMC,Tamil Nadu,C04,Cotton,6991,6576,7315,7121,-1.8,Stable,1281,Steady,2026-09-22
+M160,Coimbatore APMC,Tamil Nadu,C15,Onion,1714,1619,1787,1850,-7.4,Bearish / Down,704,Very High,2026-09-22
+M161,Coimbatore APMC,Tamil Nadu,C12,Jowar (Sorghum),3539,3292,3822,3371,5.0,Bullish / Up,417,Steady,2026-09-22
+M162,Coimbatore APMC,Tamil Nadu,C13,Potato,1432,1309,1550,1450,-1.2,Stable,1580,Very High,2026-09-22
+M163,Coimbatore APMC,Tamil Nadu,C02,Wheat,2475,2304,2686,2425,2.1,Bullish / Up,1520,Very High,2026-09-22
+M164,Madurai Mandi,Tamil Nadu,C12,Jowar (Sorghum),3492,3326,3797,3371,3.6,Bullish / Up,2249,Very High,2026-09-22
+M165,Madurai Mandi,Tamil Nadu,C07,Soybean,5235,4812,5579,4892,7.0,Bullish / Up,2365,Very High,2026-09-22
+M166,Madurai Mandi,Tamil Nadu,C03,Maize,2374,2255,2567,2225,6.7,Bullish / Up,1331,Moderate,2026-09-22
+M167,Madurai Mandi,Tamil Nadu,C02,Wheat,2531,2427,2784,2425,4.4,Bullish / Up,1093,Very High,2026-09-22
+M168,Madurai Mandi,Tamil Nadu,C04,Cotton,7502,6866,7984,7121,5.4,Bullish / Up,1597,Very High,2026-09-22
+M169,Gondal APMC,Gujarat,C15,Onion,2620,2482,2727,1850,41.6,Bullish / Up,600,Steady,2026-09-22
+M170,Gondal APMC,Gujarat,C04,Cotton,7494,7072,7895,7121,5.2,Bullish / Up,503,Steady,2026-09-22
+M171,Gondal APMC,Gujarat,C03,Maize,2291,2123,2431,2225,3.0,Bullish / Up,1777,Moderate,2026-09-22
+M172,Gondal APMC,Gujarat,C14,Tomato,2342,2165,2524,1650,41.9,Bullish / Up,402,Steady,2026-09-22
+M173,Gondal APMC,Gujarat,C02,Wheat,2574,2442,2690,2425,6.1,Bullish / Up,1132,High,2026-09-22
+M174,Rajkot Grain Market,Gujarat,C06,Mustard,6151,5784,6526,5950,3.4,Bullish / Up,1706,High,2026-09-22
+M175,Rajkot Grain Market,Gujarat,C05,Sugarcane,344,318,369,340,1.2,Stable,1588,Very High,2026-09-22
+M176,Rajkot Grain Market,Gujarat,C14,Tomato,2167,2044,2283,1650,31.3,Bullish / Up,225,Moderate,2026-09-22
+M177,Unjha Mandi,Gujarat,C12,Jowar (Sorghum),3582,3424,3755,3371,6.3,Bullish / Up,1750,Moderate,2026-09-22
+M178,Unjha Mandi,Gujarat,C05,Sugarcane,380,351,409,340,11.8,Bullish / Up,2050,High,2026-09-22
+M179,Unjha Mandi,Gujarat,C08,Groundnut,6303,6015,6597,6783,-7.1,Bearish / Down,2322,Very High,2026-09-22
+M180,Unjha Mandi,Gujarat,C11,Bajra (Pearl Millet),2436,2219,2587,2625,-7.2,Bearish / Down,1667,High,2026-09-22
+M181,Unjha Mandi,Gujarat,C15,Onion,1536,1412,1646,1850,-17.0,Bearish / Down,1754,Very High,2026-09-22
+M182,Surat APMC,Gujarat,C08,Groundnut,7005,6390,7425,6783,3.3,Bullish / Up,1127,Very High,2026-09-22
+M183,Surat APMC,Gujarat,C04,Cotton,7051,6710,7462,7121,-1.0,Stable,1818,Moderate,2026-09-22
+M184,Surat APMC,Gujarat,C13,Potato,1267,1204,1328,1450,-12.6,Bearish / Down,1812,Moderate,2026-09-22
+M185,Surat APMC,Gujarat,C02,Wheat,2375,2265,2589,2425,-2.1,Bearish / Down,1535,Steady,2026-09-22
+M186,Sri Ganganagar Mandi,Rajasthan,C09,Gram (Chickpea),5822,5332,6298,5650,3.0,Bullish / Up,189,High,2026-09-22
+M187,Sri Ganganagar Mandi,Rajasthan,C10,Tur (Pigeon Pea),8021,7337,8553,7550,6.2,Bullish / Up,2189,Moderate,2026-09-22
+M188,Sri Ganganagar Mandi,Rajasthan,C12,Jowar (Sorghum),3469,3292,3718,3371,2.9,Bullish / Up,2277,Steady,2026-09-22
+M189,Sri Ganganagar Mandi,Rajasthan,C08,Groundnut,6654,6299,7062,6783,-1.9,Stable,2196,Moderate,2026-09-22
+M190,Sri Ganganagar Mandi,Rajasthan,C15,Onion,2000,1877,2160,1850,8.1,Bullish / Up,2113,Steady,2026-09-22
+M191,Kota Krishi Upaj Mandi,Rajasthan,C08,Groundnut,6480,6002,6907,6783,-4.5,Bearish / Down,1655,Very High,2026-09-22
+M192,Kota Krishi Upaj Mandi,Rajasthan,C14,Tomato,1449,1324,1545,1650,-12.2,Bearish / Down,1227,Very High,2026-09-22
+M193,Kota Krishi Upaj Mandi,Rajasthan,C04,Cotton,7514,7205,8124,7121,5.5,Bullish / Up,350,Steady,2026-09-22
+M194,Jaipur APMC,Rajasthan,C12,Jowar (Sorghum),3158,2904,3329,3371,-6.3,Bearish / Down,2174,High,2026-09-22
+M195,Jaipur APMC,Rajasthan,C05,Sugarcane,338,313,359,340,-0.6,Stable,1524,Steady,2026-09-22
+M196,Jaipur APMC,Rajasthan,C03,Maize,2093,2003,2244,2225,-5.9,Bearish / Down,1287,Steady,2026-09-22
+M197,Alwar Mandi,Rajasthan,C12,Jowar (Sorghum),3303,3010,3554,3371,-2.0,Stable,948,High,2026-09-22
+M198,Alwar Mandi,Rajasthan,C03,Maize,2333,2193,2455,2225,4.9,Bullish / Up,1285,Steady,2026-09-22
+M199,Alwar Mandi,Rajasthan,C14,Tomato,1425,1356,1560,1650,-13.6,Bearish / Down,1542,Steady,2026-09-22
+M200,Alwar Mandi,Rajasthan,C15,Onion,1530,1426,1639,1850,-17.3,Bearish / Down,1600,Very High,2026-09-22
+M201,Alwar Mandi,Rajasthan,C02,Wheat,2384,2218,2525,2425,-1.7,Stable,800,High,2026-09-22
+M202,Burdwan Rice Hub,West Bengal,C09,Gram (Chickpea),5854,5328,6342,5650,3.6,Bullish / Up,362,Moderate,2026-09-22
+M203,Burdwan Rice Hub,West Bengal,C10,Tur (Pigeon Pea),7640,7281,8299,7550,1.2,Stable,739,Moderate,2026-09-22
+M204,Burdwan Rice Hub,West Bengal,C05,Sugarcane,358,330,388,340,5.3,Bullish / Up,1507,Very High,2026-09-22
+M205,Burdwan Rice Hub,West Bengal,C06,Mustard,5638,5351,6127,5950,-5.2,Bearish / Down,1689,Steady,2026-09-22
+M206,Burdwan Rice Hub,West Bengal,C08,Groundnut,6976,6512,7324,6783,2.8,Bullish / Up,618,Moderate,2026-09-22
+M207,Burdwan Rice Hub,West Bengal,C12,Jowar (Sorghum),3147,2925,3438,3371,-6.6,Bearish / Down,1667,Very High,2026-09-22
+M208,Siliguri APMC,West Bengal,C13,Potato,1358,1279,1459,1450,-6.3,Bearish / Down,591,Steady,2026-09-22
+M209,Siliguri APMC,West Bengal,C01,Rice,2541,2413,2647,2300,10.5,Bullish / Up,2076,Moderate,2026-09-22
+M210,Siliguri APMC,West Bengal,C09,Gram (Chickpea),5432,5009,5807,5650,-3.9,Bearish / Down,2178,High,2026-09-22
+M211,Kolkata Wholesale,West Bengal,C10,Tur (Pigeon Pea),7402,7000,7739,7550,-2.0,Stable,2271,Very High,2026-09-22
+M212,Kolkata Wholesale,West Bengal,C01,Rice,2553,2366,2696,2300,11.0,Bullish / Up,1632,High,2026-09-22
+M213,Kolkata Wholesale,West Bengal,C15,Onion,2093,1969,2184,1850,13.1,Bullish / Up,218,High,2026-09-22
+M214,Kolkata Wholesale,West Bengal,C05,Sugarcane,379,357,410,340,11.5,Bullish / Up,1252,Steady,2026-09-22
+M215,Kolkata Wholesale,West Bengal,C04,Cotton,6828,6342,7179,7121,-4.1,Bearish / Down,560,High,2026-09-22
+M216,Hooghly Mandi,West Bengal,C08,Groundnut,7172,6652,7644,6783,5.7,Bullish / Up,1752,Steady,2026-09-22
+M217,Hooghly Mandi,West Bengal,C06,Mustard,6348,6014,6965,5950,6.7,Bullish / Up,2400,Steady,2026-09-22
+M218,Hooghly Mandi,West Bengal,C04,Cotton,6985,6662,7647,7121,-1.9,Stable,619,Steady,2026-09-22
+M219,Hooghly Mandi,West Bengal,C05,Sugarcane,390,374,426,340,14.7,Bullish / Up,1484,Steady,2026-09-22
+M220,Hooghly Mandi,West Bengal,C13,Potato,1439,1376,1532,1450,-0.8,Stable,809,High,2026-09-22
+M221,Patna Bazar Samiti,Bihar,C01,Rice,2317,2122,2514,2300,0.7,Stable,1131,Steady,2026-09-22
+M222,Patna Bazar Samiti,Bihar,C07,Soybean,5200,4763,5506,4892,6.3,Bullish / Up,530,High,2026-09-22
+M223,Patna Bazar Samiti,Bihar,C06,Mustard,6311,5968,6666,5950,6.1,Bullish / Up,1876,High,2026-09-22
+M224,Muzaffarpur Mandi,Bihar,C05,Sugarcane,361,338,383,340,6.2,Bullish / Up,1628,High,2026-09-22
+M225,Muzaffarpur Mandi,Bihar,C04,Cotton,7390,6827,7943,7121,3.8,Bullish / Up,166,Moderate,2026-09-22
+M226,Muzaffarpur Mandi,Bihar,C15,Onion,2328,2206,2539,1850,25.8,Bullish / Up,906,High,2026-09-22
+M227,Muzaffarpur Mandi,Bihar,C01,Rice,2619,2465,2838,2300,13.9,Bullish / Up,2288,Steady,2026-09-22
+M228,Muzaffarpur Mandi,Bihar,C13,Potato,1786,1676,1889,1450,23.2,Bullish / Up,474,Very High,2026-09-22
+M229,Bhagalpur APMC,Bihar,C14,Tomato,2082,1914,2251,1650,26.2,Bullish / Up,621,Moderate,2026-09-22
+M230,Bhagalpur APMC,Bihar,C03,Maize,2308,2180,2483,2225,3.7,Bullish / Up,343,Steady,2026-09-22
+M231,Bhagalpur APMC,Bihar,C07,Soybean,4844,4591,5285,4892,-1.0,Stable,385,Steady,2026-09-22
+M232,Bhagalpur APMC,Bihar,C11,Bajra (Pearl Millet),2612,2405,2790,2625,-0.5,Stable,1931,Moderate,2026-09-22
+M233,Bhagalpur APMC,Bihar,C02,Wheat,2701,2560,2856,2425,11.4,Bullish / Up,1581,Steady,2026-09-22
+M234,Bhagalpur APMC,Bihar,C04,Cotton,6980,6491,7626,7121,-2.0,Stable,1985,Very High,2026-09-22
+M235,Bargarh Grain Yard,Odisha,C05,Sugarcane,371,350,398,340,9.1,Bullish / Up,1754,Very High,2026-09-22
+M236,Bargarh Grain Yard,Odisha,C15,Onion,2695,2546,2843,1850,45.7,Bullish / Up,1145,High,2026-09-22
+M237,Bargarh Grain Yard,Odisha,C10,Tur (Pigeon Pea),7512,6980,7837,7550,-0.5,Stable,999,Steady,2026-09-22
+M238,Bargarh Grain Yard,Odisha,C02,Wheat,2543,2377,2711,2425,4.9,Bullish / Up,2166,Moderate,2026-09-22
+M239,Cuttack APMC,Odisha,C05,Sugarcane,386,370,402,340,13.5,Bullish / Up,1913,Moderate,2026-09-22
+M240,Cuttack APMC,Odisha,C02,Wheat,2579,2414,2702,2425,6.4,Bullish / Up,448,High,2026-09-22
+M241,Cuttack APMC,Odisha,C07,Soybean,4567,4299,4779,4892,-6.6,Bearish / Down,1888,Moderate,2026-09-22
+M242,Cuttack APMC,Odisha,C12,Jowar (Sorghum),3478,3328,3702,3371,3.2,Bullish / Up,1229,Very High,2026-09-22
+M243,Cuttack APMC,Odisha,C13,Potato,1335,1245,1448,1450,-7.9,Bearish / Down,1816,High,2026-09-22
+M244,Cuttack APMC,Odisha,C10,Tur (Pigeon Pea),7215,6712,7792,7550,-4.4,Bearish / Down,1735,High,2026-09-22
+M245,Sambalpur Mandi,Odisha,C03,Maize,2198,2008,2316,2225,-1.2,Stable,2332,Steady,2026-09-22
+M246,Sambalpur Mandi,Odisha,C08,Groundnut,6542,6193,7016,6783,-3.6,Bearish / Down,1664,Very High,2026-09-22
+M247,Sambalpur Mandi,Odisha,C15,Onion,1817,1719,1921,1850,-1.8,Stable,2287,High,2026-09-22
+M248,Sambalpur Mandi,Odisha,C07,Soybean,4877,4458,5081,4892,-0.3,Stable,1682,Very High,2026-09-22
+M249,Sambalpur Mandi,Odisha,C12,Jowar (Sorghum),3282,3117,3451,3371,-2.6,Bearish / Down,1520,Steady,2026-09-22

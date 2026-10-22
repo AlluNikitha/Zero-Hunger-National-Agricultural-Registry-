@@ -1,0 +1,252 @@
+Farmer_ID,Name,Gender,Contact,State,District,Village,Land_Area_Acres,Soil_Type,Irrigation_Type,Primary_Crop,PM_Kisan_Beneficiary
+F001,Naresh Sharma,Male,9846913810,Andhra Pradesh,Krishna,Gudivada,2.1,Alluvial,Sprinkler,Cotton,No
+F002,Ramesh Nair,Male,9836687537,West Bengal,Birbhum,Bolpur,6.1,Loam,Canal,Tomato,Yes
+F003,Amit Rao,Male,9822448136,Madhya Pradesh,Indore,Sanwer,7.9,Black,Canal,Gram (Chickpea),Yes
+F004,Arjun Menon,Male,9835808537,West Bengal,Burdwan,Kalna,3.2,Clay Loam,Canal,Rice,Yes
+F005,Lakshmi Chauhan,Female,9857683626,Andhra Pradesh,East Godavari,Kakinada Rural,9.8,Clay Loam,Well,Rice,Yes
+F006,Pooja Mukherjee,Female,9853524491,Odisha,Bargarh,Attabira,14.9,Sandy Loam,Drip Irrigation,Groundnut,No
+F007,Namdeo Shinde,Male,9845551614,Uttar Pradesh,Lucknow,Bakshi Ka Talab,7.4,Sandy Loam,Sprinkler,Maize,Yes
+F008,Baburao Yadav,Male,9816323852,Odisha,Bargarh,Attabira,2.7,Alluvial,Rainfed,Groundnut,Yes
+F009,Anil Mukherjee,Male,9825374874,Rajasthan,Alwar,Behror,3.8,Alluvial,Rainfed,Gram (Chickpea),Yes
+F010,Geeta Rathore,Female,9824282218,Odisha,Balasore,Basta,2.8,Red,Tube Well / Borewell,Tomato,Yes
+F011,Arjun Gill,Male,9842138745,Punjab,Patiala,Nabha,2.1,Sandy Loam,Canal,Potato,Yes
+F012,Balwinder Murthy,Male,9891415657,Madhya Pradesh,Bhopal,Berasia,11.8,Sandy Loam,Drip Irrigation,Maize,Yes
+F013,Pooja Singh,Female,9855377076,Punjab,Jalandhar,Phillaur,7.8,Sandy Loam,Canal,Potato,Yes
+F014,Santosh Rathore,Male,9841944441,Telangana,Nizamabad,Armoor,2.6,Clay Loam,Sprinkler,Rice,Yes
+F015,Mahesh Chatterjee,Male,9867854710,Maharashtra,Aurangabad,Paithan,11.7,Clayey,Well,Jowar (Sorghum),Yes
+F016,Gopal Pandey,Male,9835714784,Andhra Pradesh,Chittoor,Madanapalle,4.8,Alluvial,Rainfed,Maize,Yes
+F017,Vijay Banerjee,Male,9882556484,Odisha,Bargarh,Attabira,2.4,Clayey,Rainfed,Rice,Yes
+F018,Narayana Deshmukh,Male,9871070189,Telangana,Nizamabad,Armoor,12.0,Alluvial,Tube Well / Borewell,Tur (Pigeon Pea),Yes
+F019,Prakash Reddy,Male,9888406989,Karnataka,Mandya,Maddur,1.8,Sandy Loam,Canal,Groundnut,Yes
+F020,Ashok Menon,Male,9843046464,Gujarat,Anand,Petlad,2.0,Alluvial,Sprinkler,Cotton,Yes
+F021,Harpreet Deshmukh,Male,9863121477,Uttar Pradesh,Meerut,Mawana,15.3,Alluvial,Canal,Potato,Yes
+F022,Alok Singh,Male,9842787299,Maharashtra,Nagpur,Umred,7.6,Loam,Sprinkler,Sugarcane,Yes
+F023,Gopal Jadhav,Male,9845496015,Haryana,Karnal,Gharaunda,3.4,Sandy,Tube Well / Borewell,Bajra (Pearl Millet),Yes
+F024,Jaswinder Reddy,Male,9822388090,Rajasthan,Bikaner,Nokha,1.4,Sandy Loam,Tube Well / Borewell,Gram (Chickpea),Yes
+F025,Anil Verma,Male,9820099059,West Bengal,Hooghly,Arambagh,4.0,Loam,Tube Well / Borewell,Mustard,Yes
+F026,Manoj Grewal,Male,9838195995,Rajasthan,Jaipur,Chomu,15.0,Sandy Loam,Rainfed,Mustard,Yes
+F027,Geeta Kulkarni,Female,9813326769,Uttar Pradesh,Meerut,Mawana,3.3,Sandy Loam,Well,Potato,No
+F028,Namdeo Grewal,Male,9850962024,Odisha,Ganjam,Aska,9.8,Sandy Loam,Drip Irrigation,Groundnut,Yes
+F029,Prasad Mukherjee,Male,9881969657,Maharashtra,Nashik,Niphad,2.5,Black,Drip Irrigation,Cotton,No
+F030,Naresh Thakur,Male,9887388337,Andhra Pradesh,East Godavari,Kakinada Rural,4.7,Clay Loam,Sprinkler,Rice,Yes
+F031,Ajay Mohanty,Male,9852133044,Rajasthan,Sri Ganganagar,Suratgarh,3.6,Alluvial,Drip Irrigation,Gram (Chickpea),Yes
+F032,Raghu Mukherjee,Male,9833357554,Gujarat,Anand,Petlad,7.7,Loam,Drip Irrigation,Wheat,Yes
+F033,Dnyaneshwar Mehta,Male,9838682516,Tamil Nadu,Salem,Attur,9.8,Black (Regur),Sprinkler,Cotton,Yes
+F034,Sanjay Mishra,Male,9836726767,Uttar Pradesh,Varanasi,Pindra,6.1,Alluvial,Canal,Wheat,Yes
+F035,Venkatesh Banerjee,Male,9810744212,Bihar,Patna,Bikram,2.7,Sandy Loam,Well,Potato,Yes
+F036,Babu Shah,Male,9899600766,Tamil Nadu,Tiruchirappalli,Lalgudi,15.2,Sandy Loam,Sprinkler,Tomato,Yes
+F037,Vitthal Mehta,Male,9844788100,Bihar,Muzaffarpur,Kanti,6.1,Sandy Loam,Drip Irrigation,Maize,Yes
+F038,Dinesh Jadhav,Male,9830244148,Andhra Pradesh,Kurnool,Nandyal,2.7,Alluvial,Rainfed,Cotton,Yes
+F039,Suresh Biswas,Male,9887267850,Madhya Pradesh,Jabalpur,Patan,3.7,Alluvial,Rainfed,Soybean,Yes
+F040,Narayana Sandhu,Male,9899774697,Rajasthan,Bikaner,Nokha,2.8,Sandy Loam,Sprinkler,Bajra (Pearl Millet),No
+F041,Mallesh Jadhav,Male,9871968116,Uttar Pradesh,Varanasi,Pindra,3.8,Alluvial,Drip Irrigation,Rice,Yes
+F042,Dinesh Bishnoi,Male,9812601580,West Bengal,Birbhum,Bolpur,3.1,Alluvial,Well,Rice,No
+F043,Krishna Pandey,Male,9826941092,Karnataka,Belagavi,Chikkodi,6.1,Sandy Loam,Drip Irrigation,Groundnut,Yes
+F044,Ramesh Gill,Male,9887282128,Rajasthan,Bikaner,Nokha,2.7,Sandy Loam,Well,Wheat,Yes
+F045,Ashok Menon,Male,9815512205,Maharashtra,Solapur,Pandharpur,3.7,Red,Well,Jowar (Sorghum),Yes
+F046,Namdeo Dutta,Male,9830534124,Madhya Pradesh,Bhopal,Berasia,9.9,Black,Sprinkler,Onion,Yes
+F047,Gurpreet Yadav,Male,9847437115,Karnataka,Mysuru,Nanjangud,8.1,Red,Drip Irrigation,Jowar (Sorghum),No
+F048,Amit Pawar,Male,9890014570,West Bengal,Nadia,Ranaghat,7.8,Loam,Canal,Mustard,Yes
+F049,Shambhaji Mehta,Male,9812314351,Haryana,Sirsa,Dabwali,11.8,Alluvial,Well,Rice,Yes
+F050,Ajay Grewal,Male,9870900658,Telangana,Nalgonda,Miryalaguda,2.1,Alluvial,Drip Irrigation,Maize,No
+F051,Sukhwinder Rao,Male,9836054020,Telangana,Karimnagar,Huzurabad,3.2,Alluvial,Sprinkler,Maize,No
+F052,Kishore Das,Male,9875884623,Haryana,Karnal,Gharaunda,6.0,Sandy Loam,Drip Irrigation,Bajra (Pearl Millet),Yes
+F053,Sunil Patil,Male,9876001106,Haryana,Ambala,Barara,2.7,Alluvial,Drip Irrigation,Wheat,No
+F054,Pooja Sen,Female,9880138498,Madhya Pradesh,Jabalpur,Patan,8.3,Sandy Loam,Drip Irrigation,Mustard,Yes
+F055,Kavita Das,Female,9838323322,Telangana,Warangal,Narsampet,2.5,Clayey,Tube Well / Borewell,Rice,No
+F056,Sukhwinder Dutta,Male,9847945817,West Bengal,Murshidabad,Kandi,3.3,Clay Loam,Well,Rice,Yes
+F057,Manpreet Shinde,Male,9819584466,Punjab,Patiala,Nabha,12.2,Alluvial,Drip Irrigation,Cotton,Yes
+F058,Baburao Mehta,Male,9820796722,Gujarat,Rajkot,Gondal,4.1,Alluvial,Canal,Mustard,No
+F059,Manoj Biswas,Male,9833513701,Karnataka,Mandya,Maddur,3.3,Sandy Loam,Sprinkler,Tomato,Yes
+F060,Rohit Chatterjee,Male,9824039158,Odisha,Ganjam,Aska,12.0,Sandy Loam,Well,Mustard,Yes
+F061,Prasad Rathore,Male,9810154493,Rajasthan,Alwar,Behror,1.3,Loam,Drip Irrigation,Wheat,Yes
+F062,Kishore Kaur,Male,9868802946,West Bengal,Murshidabad,Kandi,10.1,Clayey,Tube Well / Borewell,Rice,Yes
+F063,Naresh Shah,Male,9825766039,Rajasthan,Jaipur,Chomu,3.5,Sandy Loam,Drip Irrigation,Wheat,Yes
+F064,Narayana Naidu,Male,9890447099,Tamil Nadu,Coimbatore,Pollachi,15.2,Alluvial,Rainfed,Rice,Yes
+F065,Shambhaji Shinde,Male,9869934576,Tamil Nadu,Salem,Attur,7.7,Loam,Rainfed,Sugarcane,Yes
+F066,Narayana Mishra,Male,9865133300,Punjab,Amritsar,Ajnala,14.9,Sandy Loam,Well,Maize,Yes
+F067,Ajay Rao,Male,9869096899,Haryana,Ambala,Barara,11.8,Black (Regur),Well,Cotton,Yes
+F068,Srinivas Banerjee,Male,9820779739,Odisha,Balasore,Basta,4.1,Sandy Loam,Rainfed,Tomato,Yes
+F069,Sukhwinder Mishra,Male,9822130508,Madhya Pradesh,Indore,Sanwer,2.0,Black,Well,Onion,Yes
+F070,Devendra Joshi,Male,9829538047,Andhra Pradesh,Chittoor,Madanapalle,10.2,Sandy Loam,Tube Well / Borewell,Maize,Yes
+F071,Venkatesh Mishra,Male,9871894493,Rajasthan,Kota,Sangod,9.7,Loam,Rainfed,Wheat,Yes
+F072,Deepak Das,Male,9866949781,West Bengal,Nadia,Ranaghat,3.3,Sandy Loam,Rainfed,Tomato,No
+F073,Amrik Sharma,Male,9898346110,Madhya Pradesh,Ujjain,Nagda,10.2,Loam,Canal,Soybean,Yes
+F074,Shanti Sahoo,Female,9857287718,Andhra Pradesh,Krishna,Gudivada,10.2,Sandy Loam,Well,Tomato,Yes
+F075,Sanjay Mehta,Male,9814478111,Gujarat,Mehsana,Kadi,2.2,Loamy,Drip Irrigation,Onion,Yes
+F076,Arjun Murthy,Male,9877349752,Telangana,Karimnagar,Huzurabad,14.9,Red,Drip Irrigation,Maize,Yes
+F077,Srinivas Nair,Male,9859093496,Haryana,Hisar,Hansi,7.3,Loam,Drip Irrigation,Wheat,Yes
+F078,Gopal Mukherjee,Male,9841383044,Karnataka,Belagavi,Chikkodi,4.2,Alluvial,Tube Well / Borewell,Groundnut,Yes
+F079,Babu Patel,Male,9814994527,Telangana,Nizamabad,Armoor,3.2,Black (Regur),Tube Well / Borewell,Cotton,Yes
+F080,Raju Pillai,Male,9830739712,Madhya Pradesh,Indore,Sanwer,5.3,Alluvial,Drip Irrigation,Mustard,No
+F081,Arjun Rao,Male,9859302863,Tamil Nadu,Madurai,Melur,3.3,Alluvial,Canal,Rice,Yes
+F082,Suresh Reddy,Male,9854762841,Andhra Pradesh,Krishna,Gudivada,2.2,Loam,Sprinkler,Tomato,Yes
+F083,Ravi Pawar,Male,9829419691,Uttar Pradesh,Agra,Fatehabad,2.1,Clayey,Canal,Rice,No
+F084,Geeta Deshmukh,Female,9817032877,Uttar Pradesh,Gorakhpur,Sahjanwa,11.7,Loam,Rainfed,Mustard,Yes
+F085,Deepak Shah,Male,9896347724,Punjab,Ludhiana,Samrala,5.1,Red,Rainfed,Maize,Yes
+F086,Sunil Jadhav,Male,9846912022,Gujarat,Anand,Petlad,5.3,Sandy Loam,Sprinkler,Bajra (Pearl Millet),Yes
+F087,Rekha Joshi,Female,9870606674,Andhra Pradesh,Kurnool,Nandyal,4.9,Red,Canal,Groundnut,Yes
+F088,Vitthal Singh,Male,9822243983,Odisha,Bargarh,Attabira,2.1,Alluvial,Drip Irrigation,Rice,Yes
+F089,Ashok Kulkarni,Male,9857459130,Odisha,Cuttack,Athagarh,7.9,Alluvial,Canal,Rice,Yes
+F090,Alok Nair,Male,9859333209,Haryana,Sirsa,Dabwali,15.0,Sandy,Sprinkler,Bajra (Pearl Millet),Yes
+F091,Ramesh Gupta,Male,9846677730,West Bengal,Nadia,Ranaghat,1.3,Red,Tube Well / Borewell,Maize,Yes
+F092,Vinod Barman,Male,9881200181,Andhra Pradesh,Kurnool,Nandyal,3.8,Red,Drip Irrigation,Maize,Yes
+F093,Vijay Mukherjee,Male,9820949687,Telangana,Nizamabad,Armoor,8.0,Alluvial,Drip Irrigation,Soybean,Yes
+F094,Shambhaji Murthy,Male,9899541016,Telangana,Warangal,Narsampet,7.7,Alluvial,Tube Well / Borewell,Rice,Yes
+F095,Ashok Kumar,Male,9876757928,West Bengal,Murshidabad,Kandi,5.0,Sandy Loam,Tube Well / Borewell,Potato,Yes
+F096,Suresh Shah,Male,9820450542,Odisha,Balasore,Basta,7.9,Sandy Loam,Well,Tomato,Yes
+F097,Namdeo Bose,Male,9858567046,Haryana,Hisar,Hansi,5.1,Alluvial,Sprinkler,Wheat,No
+F098,Santosh Rathore,Male,9894989976,Haryana,Ambala,Barara,14.9,Sandy,Well,Bajra (Pearl Millet),Yes
+F099,Krishna Biswas,Male,9897980930,Haryana,Kurukshetra,Pehowa,15.0,Black,Sprinkler,Cotton,Yes
+F100,Sunil Bishnoi,Male,9869352161,Rajasthan,Kota,Sangod,1.4,Alluvial,Canal,Gram (Chickpea),Yes
+F101,Vinod Mohanty,Male,9889736043,Tamil Nadu,Salem,Attur,7.8,Sandy Loam,Well,Maize,Yes
+F102,Vitthal Rathore,Male,9830248230,Punjab,Bathinda,Rampura Phul,11.8,Loam,Well,Wheat,Yes
+F103,Lakshmi Chauhan,Female,9860043345,Telangana,Nizamabad,Armoor,10.1,Alluvial,Well,Soybean,Yes
+F104,Jaswinder Roy,Male,9898122539,Gujarat,Surat,Bardoli,8.1,Alluvial,Drip Irrigation,Wheat,Yes
+F105,Raghu Banerjee,Male,9854087376,Odisha,Ganjam,Aska,10.1,Loam,Sprinkler,Tomato,Yes
+F106,Shambhaji Naidu,Male,9840406092,Uttar Pradesh,Lucknow,Bakshi Ka Talab,14.8,Loam,Sprinkler,Wheat,Yes
+F107,Raghu Shinde,Male,9831776452,Uttar Pradesh,Agra,Fatehabad,5.7,Black,Drip Irrigation,Sugarcane,Yes
+F108,Tukaram Mishra,Male,9881673763,Andhra Pradesh,East Godavari,Kakinada Rural,4.1,Alluvial,Sprinkler,Maize,Yes
+F109,Raju Choudhary,Male,9836802975,Bihar,Bhagalpur,Naugachia,1.6,Loam,Drip Irrigation,Wheat,Yes
+F110,Dinesh Biswas,Male,9831516757,Telangana,Nizamabad,Armoor,4.8,Red,Tube Well / Borewell,Tur (Pigeon Pea),Yes
+F111,Devendra Pandey,Male,9861830338,Haryana,Sirsa,Dabwali,4.3,Clayey,Well,Rice,Yes
+F112,Babu Biswas,Male,9872962895,Karnataka,Mandya,Maddur,1.4,Clayey,Tube Well / Borewell,Rice,Yes
+F113,Vijay Pandey,Male,9866348030,Rajasthan,Alwar,Behror,2.2,Alluvial,Rainfed,Wheat,Yes
+F114,Amrik Joshi,Male,9810209961,Gujarat,Mehsana,Kadi,4.8,Alluvial,Well,Groundnut,No
+F115,Suresh Thakur,Male,9873100462,Punjab,Bathinda,Rampura Phul,11.7,Black,Canal,Cotton,Yes
+F116,Manoj Grewal,Male,9883284724,Maharashtra,Kolhapur,Shirol,6.3,Black,Rainfed,Sugarcane,Yes
+F117,Amrik Naidu,Male,9815879578,Bihar,Muzaffarpur,Kanti,3.5,Alluvial,Sprinkler,Rice,Yes
+F118,Vijay Banerjee,Male,9854550177,Telangana,Warangal,Narsampet,5.1,Red,Rainfed,Maize,Yes
+F119,Manpreet Yadav,Male,9866975380,Haryana,Hisar,Hansi,7.4,Sandy,Canal,Bajra (Pearl Millet),No
+F120,Dnyaneshwar Grewal,Male,9870012727,Punjab,Amritsar,Ajnala,3.6,Alluvial,Canal,Potato,No
+F121,Ramesh Shinde,Male,9891547054,Rajasthan,Bikaner,Nokha,1.8,Loam,Well,Mustard,Yes
+F122,Tukaram Chauhan,Male,9859930790,Karnataka,Belagavi,Chikkodi,7.4,Sandy Loam,Drip Irrigation,Groundnut,Yes
+F123,Narayana Nair,Male,9825805613,Telangana,Nalgonda,Miryalaguda,7.9,Black,Rainfed,Soybean,Yes
+F124,Dnyaneshwar Yadav,Male,9852894344,Rajasthan,Kota,Sangod,7.4,Alluvial,Drip Irrigation,Mustard,Yes
+F125,Anita Jadhav,Female,9841774192,Bihar,Samastipur,Pusa,7.5,Alluvial,Rainfed,Rice,Yes
+F126,Pandurang Murthy,Male,9865135987,Bihar,Samastipur,Pusa,2.8,Sandy Loam,Well,Gram (Chickpea),No
+F127,Savitri Sen,Female,9827318510,Madhya Pradesh,Hoshangabad,Itarsi,7.3,Black,Tube Well / Borewell,Soybean,Yes
+F128,Dinesh Deshmukh,Male,9836347197,Rajasthan,Alwar,Behror,9.9,Sandy Loam,Sprinkler,Gram (Chickpea),No
+F129,Amit Menon,Male,9815529005,Odisha,Bargarh,Attabira,10.2,Clayey,Drip Irrigation,Rice,Yes
+F130,Amrik Banerjee,Male,9850546385,Karnataka,Mysuru,Nanjangud,3.5,Sandy Loam,Well,Tomato,No
+F131,Venkatesh Dhillon,Male,9852857920,West Bengal,Nadia,Ranaghat,14.9,Loam,Sprinkler,Tomato,No
+F132,Mahesh Reddy,Male,9848951595,Madhya Pradesh,Hoshangabad,Itarsi,2.7,Loam,Sprinkler,Mustard,Yes
+F133,Baburao Gill,Male,9876755908,Punjab,Ludhiana,Samrala,6.3,Sandy Loam,Tube Well / Borewell,Maize,Yes
+F134,Vitthal Kaur,Male,9882033413,Punjab,Ludhiana,Samrala,3.6,Alluvial,Rainfed,Maize,Yes
+F135,Sukhwinder Singh,Male,9861854861,Tamil Nadu,Salem,Attur,8.1,Sandy Loam,Canal,Tomato,No
+F136,Arjun Biswas,Male,9829363237,Andhra Pradesh,Chittoor,Madanapalle,7.2,Sandy Loam,Canal,Tomato,No
+F137,Babu Dhillon,Male,9892284610,Maharashtra,Pune,Baramati,12.2,Red,Sprinkler,Jowar (Sorghum),Yes
+F138,Devendra Sandhu,Male,9824710878,Madhya Pradesh,Hoshangabad,Itarsi,12.1,Alluvial,Sprinkler,Gram (Chickpea),Yes
+F139,Raghu Shinde,Male,9842507072,Punjab,Jalandhar,Phillaur,1.5,Alluvial,Rainfed,Wheat,Yes
+F140,Prakash Dutta,Male,9828533117,Tamil Nadu,Coimbatore,Pollachi,10.0,Sandy Loam,Rainfed,Tomato,Yes
+F141,Balwinder Mohanty,Male,9874985553,Andhra Pradesh,Krishna,Gudivada,3.3,Alluvial,Drip Irrigation,Groundnut,Yes
+F142,Kuldeep Kaur,Male,9826357665,Gujarat,Anand,Petlad,4.3,Sandy Loam,Tube Well / Borewell,Mustard,Yes
+F143,Jaswinder Barman,Male,9874300930,Andhra Pradesh,Krishna,Gudivada,7.6,Sandy Loam,Tube Well / Borewell,Tomato,No
+F144,Shanti Reddy,Female,9823448342,Madhya Pradesh,Ujjain,Nagda,2.1,Alluvial,Tube Well / Borewell,Onion,No
+F145,Pandurang Banerjee,Male,9836770527,Bihar,Gaya,Tekari,9.7,Red,Canal,Maize,Yes
+F146,Geeta Kulkarni,Female,9833593960,Punjab,Bathinda,Rampura Phul,12.3,Alluvial,Drip Irrigation,Maize,Yes
+F147,Ajay Kaur,Male,9870981700,Rajasthan,Alwar,Behror,2.7,Alluvial,Rainfed,Soybean,Yes
+F148,Savitri Kumar,Female,9855246430,Bihar,Gaya,Tekari,14.8,Alluvial,Sprinkler,Gram (Chickpea),Yes
+F149,Mahesh Gupta,Male,9828872606,Karnataka,Dharwad,Hubballi Rural,3.4,Alluvial,Rainfed,Maize,Yes
+F150,Arjun Bose,Male,9841715995,Punjab,Ludhiana,Samrala,2.4,Red,Sprinkler,Maize,Yes
+F151,Devendra Mohanty,Male,9839641883,Andhra Pradesh,Krishna,Gudivada,6.1,Alluvial,Sprinkler,Maize,Yes
+F152,Gurpreet Mukherjee,Male,9889968863,Odisha,Bargarh,Attabira,7.6,Sandy Loam,Canal,Tomato,Yes
+F153,Krishna Choudhary,Male,9854039203,Odisha,Sambalpur,Rengali,9.8,Alluvial,Sprinkler,Maize,Yes
+F154,Namdeo Menon,Male,9817749299,Tamil Nadu,Salem,Attur,11.7,Black,Drip Irrigation,Cotton,Yes
+F155,Sunil Hegde,Male,9818087373,Haryana,Hisar,Hansi,4.8,Loam,Tube Well / Borewell,Wheat,Yes
+F156,Raghu Thakur,Male,9820770971,Rajasthan,Alwar,Behror,1.8,Sandy Loam,Sprinkler,Bajra (Pearl Millet),Yes
+F157,Suresh Gill,Male,9872143331,Rajasthan,Alwar,Behror,5.2,Sandy Loam,Tube Well / Borewell,Wheat,Yes
+F158,Naresh Patel,Male,9898610233,Madhya Pradesh,Hoshangabad,Itarsi,2.7,Black,Sprinkler,Soybean,No
+F159,Rekha Biswas,Female,9817575790,Uttar Pradesh,Agra,Fatehabad,12.0,Clayey,Sprinkler,Rice,Yes
+F160,Pooja Kulkarni,Female,9850332555,Telangana,Warangal,Narsampet,12.2,Alluvial,Well,Tur (Pigeon Pea),Yes
+F161,Raghu Murthy,Male,9852779814,West Bengal,Murshidabad,Kandi,3.4,Loam,Sprinkler,Tomato,Yes
+F162,Prakash Nair,Male,9865388634,Madhya Pradesh,Hoshangabad,Itarsi,4.8,Alluvial,Tube Well / Borewell,Maize,Yes
+F163,Meena Reddy,Female,9846032304,Madhya Pradesh,Hoshangabad,Itarsi,1.8,Alluvial,Sprinkler,Maize,Yes
+F164,Anil Gowda,Male,9835504548,West Bengal,Burdwan,Kalna,12.1,Loam,Tube Well / Borewell,Tomato,Yes
+F165,Hemant Gill,Male,9845106207,Maharashtra,Solapur,Pandharpur,2.2,Clayey,Well,Jowar (Sorghum),Yes
+F166,Pooja Barman,Female,9829585415,Punjab,Amritsar,Ajnala,3.3,Alluvial,Drip Irrigation,Potato,Yes
+F167,Jaswinder Biswas,Male,9875581613,West Bengal,Murshidabad,Kandi,12.2,Loam,Tube Well / Borewell,Tomato,No
+F168,Prakash Murthy,Male,9814539747,Odisha,Bargarh,Attabira,4.8,Clayey,Well,Rice,Yes
+F169,Pandurang Chatterjee,Male,9875478707,Punjab,Ludhiana,Samrala,1.2,Alluvial,Well,Potato,Yes
+F170,Geeta Rao,Female,9822927031,Tamil Nadu,Coimbatore,Pollachi,8.0,Sandy Loam,Drip Irrigation,Groundnut,Yes
+F171,Gurpreet Bose,Male,9840314047,Telangana,Warangal,Narsampet,4.9,Black (Regur),Sprinkler,Cotton,Yes
+F172,Ajay Menon,Male,9822799248,Tamil Nadu,Thanjavur,Kumbakonam,12.2,Sandy Loam,Rainfed,Groundnut,Yes
+F173,Rajesh Gupta,Male,9852209421,Punjab,Patiala,Nabha,15.2,Sandy Loam,Rainfed,Potato,Yes
+F174,Narayana Mukherjee,Male,9882553061,Maharashtra,Aurangabad,Paithan,15.3,Red,Well,Tur (Pigeon Pea),No
+F175,Amit Sahoo,Male,9892391596,Gujarat,Junagadh,Keshod,9.9,Alluvial,Rainfed,Wheat,Yes
+F176,Raghu Yadav,Male,9893029219,Telangana,Karimnagar,Huzurabad,3.3,Black (Regur),Well,Cotton,Yes
+F177,Ravi Gill,Male,9869691437,Maharashtra,Nagpur,Umred,1.8,Black (Regur),Rainfed,Cotton,Yes
+F178,Rohit Thakur,Male,9811656329,Telangana,Nizamabad,Armoor,12.2,Black,Tube Well / Borewell,Soybean,Yes
+F179,Manpreet Solanki,Male,9829587040,Haryana,Kurukshetra,Pehowa,4.9,Black,Canal,Cotton,Yes
+F180,Namdeo Rao,Male,9828185096,Telangana,Warangal,Narsampet,7.9,Alluvial,Drip Irrigation,Soybean,Yes
+F181,Babu Gill,Male,9853038948,Gujarat,Surat,Bardoli,2.8,Sandy Loam,Drip Irrigation,Mustard,Yes
+F182,Kuldeep Patil,Male,9858991556,Haryana,Ambala,Barara,7.3,Clay Loam,Sprinkler,Rice,No
+F183,Sunil Kulkarni,Male,9877015343,Uttar Pradesh,Meerut,Mawana,9.8,Loam,Rainfed,Sugarcane,Yes
+F184,Raju Hegde,Male,9814934536,Bihar,Gaya,Tekari,10.2,Alluvial,Canal,Gram (Chickpea),Yes
+F185,Prasad Biswas,Male,9854506155,Bihar,Samastipur,Pusa,1.9,Clayey,Sprinkler,Rice,Yes
+F186,Krishna Grewal,Male,9813296743,Karnataka,Belagavi,Chikkodi,1.8,Loam,Well,Sugarcane,No
+F187,Alok Bishnoi,Male,9823102741,Karnataka,Ballari,Siruguppa,3.2,Alluvial,Well,Sugarcane,No
+F188,Gurpreet Murthy,Male,9833414716,Tamil Nadu,Coimbatore,Pollachi,5.3,Black,Tube Well / Borewell,Sugarcane,Yes
+F189,Anita Mehta,Female,9889484162,Madhya Pradesh,Jabalpur,Patan,2.8,Loam,Well,Soybean,Yes
+F190,Arjun Dhillon,Male,9836450861,Karnataka,Belagavi,Chikkodi,6.0,Black,Well,Sugarcane,Yes
+F191,Namdeo Mohanty,Male,9833156250,Odisha,Balasore,Basta,2.1,Red,Drip Irrigation,Tomato,No
+F192,Narayana Kulkarni,Male,9890050918,Uttar Pradesh,Agra,Fatehabad,2.5,Alluvial,Sprinkler,Potato,Yes
+F193,Kamal Mehta,Male,9893135800,Punjab,Amritsar,Ajnala,2.3,Loam,Rainfed,Wheat,Yes
+F194,Dnyaneshwar Solanki,Male,9832448383,Haryana,Ambala,Barara,3.2,Alluvial,Tube Well / Borewell,Wheat,Yes
+F195,Baburao Nair,Male,9878559218,Haryana,Ambala,Barara,15.0,Loam,Drip Irrigation,Wheat,Yes
+F196,Mallesh Rao,Male,9897734330,Bihar,Muzaffarpur,Kanti,5.9,Alluvial,Canal,Maize,Yes
+F197,Alok Dutta,Male,9891907952,Rajasthan,Bikaner,Nokha,14.8,Sandy,Tube Well / Borewell,Bajra (Pearl Millet),Yes
+F198,Amrik Kaur,Male,9886871268,Telangana,Khammam,Madhira,15.2,Black (Regur),Canal,Cotton,Yes
+F199,Rohit Pandey,Male,9862707402,Karnataka,Mysuru,Nanjangud,3.6,Alluvial,Rainfed,Groundnut,Yes
+F200,Devendra Shah,Male,9875504221,Maharashtra,Solapur,Pandharpur,2.1,Alluvial,Rainfed,Cotton,Yes
+F201,Mallesh Gowda,Male,9876399516,Telangana,Nalgonda,Miryalaguda,7.5,Red,Sprinkler,Maize,Yes
+F202,Namdeo Sharma,Male,9826674831,Odisha,Ganjam,Aska,1.8,Red,Rainfed,Maize,Yes
+F203,Kuldeep Yadav,Male,9897857309,Maharashtra,Nagpur,Umred,10.2,Black,Tube Well / Borewell,Cotton,No
+F204,Vinod Dutta,Male,9822775337,Punjab,Patiala,Nabha,2.6,Alluvial,Sprinkler,Maize,Yes
+F205,Mallesh Bose,Male,9827740248,Karnataka,Belagavi,Chikkodi,2.1,Red,Canal,Maize,No
+F206,Babu Banerjee,Male,9829173414,Haryana,Ambala,Barara,8.1,Sandy,Rainfed,Bajra (Pearl Millet),Yes
+F207,Dnyaneshwar Gowda,Male,9821635070,Haryana,Kurukshetra,Pehowa,11.9,Sandy Loam,Rainfed,Wheat,Yes
+F208,Sukhwinder Sen,Male,9813600310,Odisha,Balasore,Basta,8.0,Alluvial,Well,Groundnut,Yes
+F209,Narayana Verma,Male,9842357445,Karnataka,Mandya,Maddur,1.8,Clay Loam,Drip Irrigation,Rice,No
+F210,Santosh Sharma,Male,9888834594,Haryana,Karnal,Gharaunda,1.8,Loam,Rainfed,Mustard,Yes
+F211,Krishna Pawar,Male,9821220209,Telangana,Warangal,Narsampet,14.8,Red,Drip Irrigation,Tur (Pigeon Pea),Yes
+F212,Harpreet Reddy,Male,9842813517,Haryana,Hisar,Hansi,8.1,Loam,Drip Irrigation,Wheat,Yes
+F213,Lakshmi Solanki,Female,9856533974,Tamil Nadu,Tiruchirappalli,Lalgudi,2.4,Black,Well,Cotton,Yes
+F214,Ajay Joshi,Male,9846504617,Tamil Nadu,Thanjavur,Kumbakonam,8.1,Black,Rainfed,Sugarcane,Yes
+F215,Lakshmi Deshmukh,Female,9823811663,Gujarat,Rajkot,Gondal,7.2,Alluvial,Canal,Groundnut,Yes
+F216,Rajesh Nair,Male,9898007006,Madhya Pradesh,Bhopal,Berasia,5.2,Sandy Loam,Drip Irrigation,Gram (Chickpea),Yes
+F217,Vijay Gupta,Male,9839955391,Bihar,Bhagalpur,Naugachia,2.2,Alluvial,Drip Irrigation,Rice,Yes
+F218,Anita Kaur,Female,9885672859,Bihar,Gaya,Tekari,5.9,Sandy Loam,Rainfed,Gram (Chickpea),Yes
+F219,Krishna Kumar,Male,9865034115,Punjab,Patiala,Nabha,10.2,Alluvial,Canal,Potato,Yes
+F220,Sanjay Rao,Male,9837540722,Tamil Nadu,Coimbatore,Pollachi,1.8,Red,Tube Well / Borewell,Maize,Yes
+F221,Satyanarayana Bose,Male,9859995026,Karnataka,Belagavi,Chikkodi,7.3,Sandy Loam,Rainfed,Groundnut,No
+F222,Balwinder Dhillon,Male,9862741214,West Bengal,Nadia,Ranaghat,3.3,Red,Tube Well / Borewell,Maize,No
+F223,Satyanarayana Verma,Male,9881930575,Maharashtra,Pune,Baramati,5.9,Clayey,Canal,Jowar (Sorghum),No
+F224,Rohit Shinde,Male,9822242388,West Bengal,Hooghly,Arambagh,7.2,Red,Drip Irrigation,Maize,Yes
+F225,Gurpreet Rao,Male,9872014395,Haryana,Kurukshetra,Pehowa,1.7,Alluvial,Tube Well / Borewell,Wheat,No
+F226,Balwinder Singh,Male,9812925970,Haryana,Kurukshetra,Pehowa,2.2,Black (Regur),Drip Irrigation,Cotton,No
+F227,Srinivas Solanki,Male,9813957046,Madhya Pradesh,Jabalpur,Patan,3.2,Loam,Drip Irrigation,Wheat,Yes
+F228,Amrik Solanki,Male,9865296657,Tamil Nadu,Salem,Attur,3.4,Clayey,Rainfed,Rice,Yes
+F229,Raghu Dutta,Male,9858199211,Karnataka,Mandya,Maddur,8.0,Clayey,Rainfed,Jowar (Sorghum),Yes
+F230,Kuldeep Reddy,Male,9873308406,Tamil Nadu,Madurai,Melur,2.3,Loam,Well,Tomato,Yes
+F231,Narayana Grewal,Male,9833315234,Uttar Pradesh,Lucknow,Bakshi Ka Talab,15.1,Sandy Loam,Drip Irrigation,Mustard,Yes
+F232,Venkatesh Menon,Male,9835264294,Odisha,Cuttack,Athagarh,2.5,Sandy Loam,Canal,Tomato,No
+F233,Anita Jadhav,Female,9855735904,West Bengal,Hooghly,Arambagh,1.3,Alluvial,Well,Maize,Yes
+F234,Devendra Dutta,Male,9898870866,Madhya Pradesh,Hoshangabad,Itarsi,3.4,Alluvial,Tube Well / Borewell,Soybean,Yes
+F235,Geeta Dutta,Female,9885427317,West Bengal,Birbhum,Bolpur,10.1,Alluvial,Tube Well / Borewell,Maize,Yes
+F236,Srinivas Sen,Male,9886166246,Punjab,Patiala,Nabha,15.3,Alluvial,Tube Well / Borewell,Potato,Yes
+F237,Harpreet Grewal,Male,9852885071,Uttar Pradesh,Varanasi,Pindra,10.1,Sandy Loam,Drip Irrigation,Maize,Yes
+F238,Gopal Roy,Male,9810171954,Punjab,Bathinda,Rampura Phul,5.3,Sandy Loam,Rainfed,Maize,Yes
+F239,Pooja Choudhary,Female,9870570772,Haryana,Karnal,Gharaunda,3.9,Loam,Canal,Mustard,No
+F240,Vinod Sandhu,Male,9889729429,Gujarat,Junagadh,Keshod,5.3,Loamy,Tube Well / Borewell,Onion,Yes
+F241,Meena Kulkarni,Female,9884371711,West Bengal,Birbhum,Bolpur,3.4,Sandy Loam,Canal,Maize,No
+F242,Amrik Chatterjee,Male,9893898287,Gujarat,Junagadh,Keshod,1.3,Sandy Loam,Well,Groundnut,Yes
+F243,Vitthal Solanki,Male,9898723294,Telangana,Warangal,Narsampet,2.4,Black,Rainfed,Tur (Pigeon Pea),Yes
+F244,Manpreet Menon,Male,9818273096,Uttar Pradesh,Varanasi,Pindra,4.2,Sandy Loam,Rainfed,Wheat,Yes
+F245,Raju Hegde,Male,9873729850,Gujarat,Surat,Bardoli,1.9,Sandy Loam,Well,Mustard,No
+F246,Sunita Gowda,Female,9835867257,Uttar Pradesh,Varanasi,Pindra,10.0,Sandy Loam,Well,Potato,No
+F247,Vinod Thakur,Male,9884673939,Madhya Pradesh,Hoshangabad,Itarsi,7.5,Black,Canal,Gram (Chickpea),Yes
+F248,Mahesh Rao,Male,9885522135,Bihar,Patna,Bikram,4.2,Sandy Loam,Drip Irrigation,Maize,Yes
+F249,Prasad Shinde,Male,9892979370,Gujarat,Junagadh,Keshod,4.1,Black,Canal,Cotton,Yes
+F250,Deepak Gill,Male,9847627490,Odisha,Cuttack,Athagarh,2.4,Clayey,Well,Rice,Yes
+F251,Sailajaa,Female,9127839833,Andhra Pradesh,Anantapuramu,Anantapuramu,6.0,Black (Regur),Drip Irrigation,Cotton,Yes
