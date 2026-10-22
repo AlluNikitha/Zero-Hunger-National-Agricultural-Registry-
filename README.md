@@ -8,6 +8,7 @@
 
 **AgriPulse** is an agricultural intelligence and data management web application built with **Streamlit, Pandas, and NumPy**. Designed in alignment with **United Nations Sustainable Development Goal 2 (Zero Hunger)**, the platform integrates smallholder farmer registries, agronomic crop intelligence, parametric yield modeling, and real-time APMC Mandi wholesale prices into a unified dashboard.
 
+LIVE DEMO : https://zero-hunger-national-agricultural-registry-bqbyivvnovdhtkl8upy.streamlit.app/
 ---
 
 ## 🌟 Key Features
